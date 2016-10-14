@@ -4,4 +4,5 @@ To build:
      mvn clean install
 
 To run
+
      mvn exec:java -Dexec.mainClass="org.sound.classifier.FeaturesProcessInvoker"
