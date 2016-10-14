@@ -6,8 +6,8 @@
 
 package org.sound.classifier.features;
 
-import jAudioFeatureExtractor.ACE.DataTypes.FeatureDefinition;
 
+import jAudioFeatureExtractor.ACE.DataTypes.FeatureDefinition;
 
 /**
  * A mfcc extractor that extracts the Zero Crossings from a set of

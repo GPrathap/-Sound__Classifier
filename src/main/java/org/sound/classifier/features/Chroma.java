@@ -1,7 +1,7 @@
 package org.sound.classifier.features;
 
 import jAudioFeatureExtractor.ACE.DataTypes.FeatureDefinition;
-import jAudioFeatureExtractor.DataModel;
+import org.sound.classifier.DataModel;
 
 import java.util.Arrays;
 

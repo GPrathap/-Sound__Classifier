@@ -1,6 +1,7 @@
 package org.sound.classifier.features;
 
-import jAudioFeatureExtractor.DataModel;
+
+import org.sound.classifier.DataModel;
 
 /**
  * This class combines 2 sets of functionality:

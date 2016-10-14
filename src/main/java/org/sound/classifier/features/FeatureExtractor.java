@@ -6,8 +6,9 @@
 
 package org.sound.classifier.features;
 
+
 import jAudioFeatureExtractor.ACE.DataTypes.FeatureDefinition;
-import jAudioFeatureExtractor.DataModel;
+import org.sound.classifier.DataModel;
 
 /**
  * The prototype for mfcc extractors. Each class that extends this class will
